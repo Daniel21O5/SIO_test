@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "../site web IA armement"
+        },
+        {
+            "path": "../../Downloads/Projet"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "Projet"
+    }
+}
